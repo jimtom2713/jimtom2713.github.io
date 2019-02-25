@@ -1,7 +1,7 @@
 {
   "name": "reconcile",
   "version": "0.1.0",
-  "homepage": "https://github.com/jimtom2713/reconcile",
+  "homepage": "https://jimtom2713.github.io/reconcile/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",

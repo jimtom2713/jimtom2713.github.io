@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jimtom2713/reconcile/precache-manifest.06f4d8598622b5fce3edeb0ecd3d372a.js"
+  "/reconcile/precache-manifest.75061d22ce29f35738ef7c50bcddd6c2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jimtom2713/reconcile/index.html", {
+workbox.routing.registerNavigationRoute("/reconcile/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
